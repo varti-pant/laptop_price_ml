@@ -52,4 +52,3 @@ Make sure you have the following installed:
 
 ---
 
-Feel free to customize this README according to your project's specific requirements, adding more details or explanations as needed.
