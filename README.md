@@ -37,18 +37,18 @@ Make sure you have the following installed:
 ## File Structure
 
 - `laptop_data.csv`: Dataset containing laptop information.
-- `laptop_price_prediction.py`: Python script for predicting laptop prices.
+- `laptop_price_prediction.ipyb`: Python script for predicting laptop prices.
 
 ## How to Run
 
 1. Ensure you have all the prerequisites installed.
 2. Place the `laptop_data.csv` file in the same directory as the Python script.
-3. Run the `laptop_price_prediction.py` script in your Python environment.
+3. Run the `laptop_price_prediction.ipyb` script in your Python environment.
 
 ## Note
 
 - **Data**: Ensure the dataset `laptop_data.csv` is correctly formatted and contains necessary information for the features and target variable ('Price').
-- **Model Tuning**: Consider experimenting with different machine learning models, hyperparameters, or additional feature engineering techniques to potentially improve prediction accuracy.
+- **Model Tuning**: Consider experimenting with different machine learning models, hyperparameters, or additional feature engineering techniques to improve prediction accuracy potentially.
 
 ---
 
