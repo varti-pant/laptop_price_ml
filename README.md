@@ -12,7 +12,7 @@ This Python script demonstrates a machine learning pipeline for predicting lapto
 
 ## Prerequisites
 
-Make sure you have the following installed:
+Make sure you have the following installed: 
 
 - Python (>=3.6)
 - Libraries: `numpy`, `pandas`, `matplotlib`, `seaborn`, `scikit-learn`
