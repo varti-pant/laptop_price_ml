@@ -1,7 +1,4 @@
 # laptop_price_ml
-
-Certainly! Below is an example of a README file that explains the workings of the code provided:
-
 ---
 
 # Laptop Price Prediction using Machine Learning
